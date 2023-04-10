@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently doing a Bootcamp to become a FullStack Developer. So far so good!
+🌱 I’m currently learning Ruby on Rails. So far so good!
 
 
 ## 🌐 Socials:
