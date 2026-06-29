@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Ruby on Rails. So far so good!
+🌱 I’m currently working with Ruby on Rails. So far, so good!
 
 
 ## 🌐 Socials:
